@@ -1,0 +1,17 @@
+body, h1, h2, p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body {
+    color: #ffffff96;
+    background-color: rgb(5, 94, 5);
+    font-size: 18px;
+}
+h1 {
+    font-size: 2em;
+}
+h2 {
+    font-size: 1.5em;
+}
+p + p {
+    text-indent: 2em;
+}
